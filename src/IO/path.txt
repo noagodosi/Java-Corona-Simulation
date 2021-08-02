@@ -1,0 +1,8 @@
+City; Ashdod; 0;0; 90;50; 100
+City; Beer-Sheva; 200;0; 110;110; 120
+Moshav; Gevim; 300;500; 100;50; 100
+Kibbutz; Ein-Hashlosha; 200;280; 110;90; 100
+#;Ashdod;Beer-Sheva;
+#;Ashdod;Beer;
+#;Ashdod;Ashkelon;
+City; Ashkelon; 0;130; 80;80; 120
